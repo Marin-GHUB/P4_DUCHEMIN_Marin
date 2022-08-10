@@ -1,0 +1,96 @@
+## Dictionnaire de données associées ##
+
+### Dataset 2016 ###
+
+**OSEBuildingID** : Numéro d'identification du bâtiment
+
+DataYear : Années de récupération des données
+
+BuildingType : Type de bâtiment (résidentiel, campus, etc)
+
+PrimaryPropertyType : Usage principal de la propriété
+
+PropertyName : Nom d'usage de la propriété
+
+Address : Adresse postale de la propriété
+
+City : Ville de la propriété
+
+State : Etat dans lequel se trouve la propriété
+
+Zip Codes : Code Postal
+
+TaxParcelIdentificationNumber : Numéro d'identification de la parcelle
+
+CouncilDistrictCode : Code de quartier de la propriété
+
+Neighborhood : voisinnage de la propriété
+
+Latitude : Latitude de la propriété
+
+Longitude : Longitude de la propriété
+
+YearBuilt : Année de construction
+
+NumberOfBuildings : Nombre de bâtiments
+
+NumberOfFloors : Nombre d'étages
+
+PropertyGFATotal : Surface au sol totale de la propriété
+
+PropertyGFAParking : Surface au sol de la propriété dédiée au parking
+
+PropertyGFABuilding(s) : Surface au sol de la propriété dédiée aux bâtiments
+
+ListOfAllPropertyUseTypes : List de tous les usages de la propriété
+
+LargestPropertyUseType : Usage le plus volumineux de la propriété
+
+LargestPropertyUseTypeGFA : Surface au sol de la propriété dédiée à l'usage le plus volumineux
+
+SecondLargestPropertyUseType : Second usage le plus volumineux de la propriété
+
+SecondLargestPropertyUseTypeGFA : Surface au sol de la propriété dédiée au second usage le plus volumineux de la propriété
+
+ThirdLargestPropertyUseType : Troisième usage le plus volumineux de la propriété
+
+ThirdLargestPropertyUseTypeGFA : Surface au sol de la propriété dédiée au troisième usage le plus volumineux de la propriété
+
+YearsENERGYSTARCertified : Année de certification ENERGYSTAR
+
+ENERGYSTARScore : Score ENERGYSTAR du bâtiment
+
+SiteEUI(kBtu/sf) : Intensité de l'utilisation énergétique du site en kilo unité britannique thermique par piedcarré (kilo British Thermal Unit per footsquare)
+
+SiteEUIWN(kBtu/sf) : Intensité de l'utilisation énergétique du site normalisée à la météo
+
+SourceEUI(kBtu/sf) : Intensité de l'utilisation énergétique du site avec prise en compte des ressources utilisées
+
+SourceEUIWN(kBtu/sf) : Intensité de l'utilisation énergétique du site avec prise en compte des ressources utilisées normalisée à la météo
+
+SiteEnergyUse(kBtu) : Utilisation énergétique du site en kilo unité britannique thermique
+
+SiteEnergyUseWN(kBtu) : Utilisation énergétique du site normalisée à la météo
+
+SteamUse(kBtu) : Utilisation de vapeur en kilo unité britannique thermique
+
+Electricity(kWh) : Utilisation électrique en kiloWattheure
+
+Electricity(kBtu) : Utilisation électrique en kilo unité britannique thermique
+
+NaturalGas(therms) : Utilisation de gaz naturels en Thermique
+
+NaturalGas(kBtu) : Utilisation de gaz naturels en kilo unité britannique thermique
+
+DefaultData : Données par défaut (Vrai/Faux)
+
+Comment : Commentaires
+
+ComplianceStatus : Statut relatif aux normes (oui/non)
+
+Outlier : Présence ou non d'exception
+
+TotalGHGEmissions : Emissions total des gaz à effets de serre (pas d'unité)
+
+GHGEmissionsIntensity : Intensité de l'émission totale des gaz à effets de serre (pas d'unité)
+

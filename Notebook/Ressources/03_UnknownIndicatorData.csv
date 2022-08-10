@@ -1,0 +1,11 @@
+OSEBuildingID,BuildingType,PrimaryPropertyType,ZipCode,YearBuilt,NumberofBuildings,NumberofFloors,PropertyGFATotal(m2),PropertyGFAParking(m2),LargestPropertyUseType,SecondLargestPropertyUseType,ENERGYSTARScore,SourceEUIWN(GJ/m2),SteamUse(GJ),Electricity(kWh),NaturalGas(GJ),SiteEnergyUseWN(GJ),TotalGHGEmissions(MetricTonsCO2e)
+87.0,SPS-District K-12,K-12 School,98146.0,1948.0,1.0,2.0,4956.56299008,0.0,K-12 School,,,,,,,,
+757.0,NonResidential,Large Office,98121.0,1979.0,1.0,7.0,12183.583374720001,8097.428966400001,Office,Retail Store,93.5,718.870964825263,0.0,1488779.125,1073209.66965,,89.435
+773.0,NonResidential,Small- and Mid-Sized Office,98104.0,1924.0,,4.0,5866.826976,0.0,,,,,,,,,
+19694.0,SPS-District K-12,K-12 School,98122.0,1925.0,1.0,2.0,3467.7917740800003,0.0,K-12 School,,,,,,,,
+21570.0,SPS-District K-12,K-12 School,98125.0,1950.0,1.0,1.0,3159.1678752000003,0.0,K-12 School,,,,,,,,
+21578.0,SPS-District K-12,K-12 School,98116.0,1949.0,1.0,1.0,3829.5562118400003,0.0,K-12 School,,,,,,,,
+24408.0,SPS-District K-12,K-12 School,18377.0,1953.0,1.0,1.0,10296.4439232,0.0,K-12 School,,,,,,,,
+25361.0,SPS-District K-12,K-12 School,98115.0,1961.0,1.0,1.0,4048.5286771200003,0.0,K-12 School,,,,,,,,
+25451.0,NonResidential,Restaurant,98109.0,1978.0,1.0,2.0,2463.69571776,0.0,Restaurant,Office,,,,,,,
+26532.0,NonResidential,Mixed Use Property,98105.0,1928.0,,2.0,1928.6671104000002,0.0,,,,,,,,,
